@@ -4,7 +4,7 @@ A small jQuery plugin that appropriately truncates a block of multi-line text, a
 
 <img src="demo/demo1.png"/>
 
-#Usage
+##Usage
 
 1. Add VerticalTrunc.js to your page.
 
@@ -12,6 +12,6 @@ A small jQuery plugin that appropriately truncates a block of multi-line text, a
         
         $("mybox").verticaltrunc();
 
-#Demo
+##Demo
 
 A demo is available in the demo folder.
