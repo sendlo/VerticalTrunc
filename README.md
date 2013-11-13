@@ -12,3 +12,6 @@ A small jQuery plugin that appropriately truncates a block of multi-line text, a
         
         $("mybox").verticaltrunc();
 
+#Demo
+
+A demo is available in the demo folder.
